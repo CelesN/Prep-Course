@@ -1,0 +1,41 @@
+h1 {
+    color:darkslategray;
+}
+
+h2 {
+    color: darkcyan;
+}
+
+h3 {
+    color: rgb(41, 192, 192);
+    
+}
+
+h4 {
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+
+.divClass {
+    padding-left: 100px;
+    padding-top: 0px;
+    margin-top: 0px;
+    border-top: 0px;
+
+}
+
+#titleId {
+    padding-left: 500px;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    padding-left: 475px;
+}
+
+#spanId {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-left: 10px;
+}
